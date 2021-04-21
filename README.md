@@ -1,1 +1,3 @@
-# python_qa_otus
+# Курс PYTHON QA от OTUS
+
+Домашние задания в рамках курса
