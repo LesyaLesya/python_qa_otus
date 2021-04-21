@@ -1,0 +1,31 @@
+2021-04-21 10:09:56,583 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:09:56,583 - BrowserLogger - INFO - Test 'test_presence_of_elements_on_admin_login_page' is starting
+2021-04-21 10:09:59,101 - BrowserLogger - INFO - Browser firefox run
+2021-04-21 10:09:59,103 - AdminPage - INFO - Opening url https://demo.opencart.com/admin/
+2021-04-21 10:10:00,262 - AdminPage - INFO - Checking visibility of element with locator class name - panel-heading
+2021-04-21 10:10:00,294 - AdminPage - INFO - Checking visibility of element with locator id - input-username
+2021-04-21 10:10:00,324 - AdminPage - INFO - Checking visibility of element with locator id - input-password
+2021-04-21 10:10:00,342 - AdminPage - INFO - Checking visibility of element with locator css selector - button.btn.btn-primary
+2021-04-21 10:10:00,362 - AdminPage - INFO - Checking visibility of element with locator class name - help-block
+2021-04-21 10:10:00,869 - BrowserLogger - INFO - Browser firefox closed
+2021-04-21 10:10:00,869 - BrowserLogger - INFO - Test 'test_presence_of_elements_on_admin_login_page' is finished
+
+
+2021-04-21 10:10:00,870 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:10:00,870 - BrowserLogger - INFO - Test 'test_login' is starting
+2021-04-21 10:10:04,188 - BrowserLogger - INFO - Browser firefox run
+2021-04-21 10:10:04,190 - AdminPage - INFO - Opening url https://demo.opencart.com/admin/
+2021-04-21 10:10:05,387 - AdminPage - INFO - Checking visibility of element with locator id - input-username
+2021-04-21 10:10:05,420 - AdminPage - INFO - Clearing input of element <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6bdc003-6247-134c-942a-40f20d3368f8", element="50cb5d5a-7de2-f241-8549-169c94ab5f43")>
+2021-04-21 10:10:05,434 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6bdc003-6247-134c-942a-40f20d3368f8", element="50cb5d5a-7de2-f241-8549-169c94ab5f43")>
+2021-04-21 10:10:05,457 - AdminPage - INFO - Checking visibility of element with locator id - input-password
+2021-04-21 10:10:05,476 - AdminPage - INFO - Clearing input of element <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6bdc003-6247-134c-942a-40f20d3368f8", element="b6126997-bb08-cc4b-aca8-647eca330ae0")>
+2021-04-21 10:10:05,486 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c6bdc003-6247-134c-942a-40f20d3368f8", element="b6126997-bb08-cc4b-aca8-647eca330ae0")>
+2021-04-21 10:10:05,494 - AdminPage - INFO - Clicking on element with locator css selector - button.btn.btn-primary
+2021-04-21 10:10:07,621 - AdminPage - INFO - Checking title 'Dashboard' of page
+2021-04-21 10:10:08,119 - BrowserLogger - INFO - Browser firefox closed
+2021-04-21 10:10:08,119 - BrowserLogger - INFO - Test 'test_login' is finished
+
+
+2021-04-21 10:10:08,120 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:10:08,121 - BrowserLogger - INFO - Test 'test_logout' is starting

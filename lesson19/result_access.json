@@ -1,0 +1,206 @@
+{
+    "ALL_REQUESTS": 20589,
+    "POST": 4965,
+    "PUT": 5,
+    "GET": 15212,
+    "DELETE": 0,
+    "HEAD": 407,
+    "TOP 10 IP": {
+        "100.1.14.108": 8332,
+        "148.251.50.49": 1929,
+        "193.106.31.130": 1255,
+        "213.150.254.81": 434,
+        "195.212.98.190": 241,
+        "37.1.206.196": 208,
+        "91.141.1.150": 139,
+        "213.162.68.93": 97,
+        "80.123.146.190": 95,
+        "80.110.186.51": 87
+    },
+    "TOP 10 CLIENT ERROR": [
+        {
+            "ip": "191.182.199.16",
+            "method": "GET",
+            "url": "/templates/_system/css/general.css",
+            "status": "404"
+        },
+        {
+            "ip": "188.45.108.168",
+            "method": "GET",
+            "url": "/templates/_system/css/general.css",
+            "status": "404"
+        },
+        {
+            "ip": "188.45.108.168",
+            "method": "GET",
+            "url": "/favicon.ico",
+            "status": "404"
+        },
+        {
+            "ip": "157.55.39.3",
+            "method": "GET",
+            "url": "/icons/text.gif",
+            "status": "404"
+        },
+        {
+            "ip": "212.95.7.131",
+            "method": "GET",
+            "url": "/templates/_system/css/general.css",
+            "status": "404"
+        },
+        {
+            "ip": "40.77.167.66",
+            "method": "GET",
+            "url": "/apache-log/error.log.44.gz",
+            "status": "404"
+        },
+        {
+            "ip": "185.104.219.254",
+            "method": "GET",
+            "url": "/apache-log/access.log.69.gz",
+            "status": "404"
+        },
+        {
+            "ip": "157.55.39.8",
+            "method": "GET",
+            "url": "/apache-log/error.log.55.gz",
+            "status": "404"
+        },
+        {
+            "ip": "188.23.50.138",
+            "method": "GET",
+            "url": "/templates/_system/css/general.css",
+            "status": "404"
+        },
+        {
+            "ip": "188.23.50.138",
+            "method": "GET",
+            "url": "/favicon.ico",
+            "status": "404"
+        }
+    ],
+    "TOP 10 SERVER ERROR": [
+        {
+            "ip": "83.167.113.100",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "109.197.194.109",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "176.49.68.156",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "66.249.69.112",
+            "method": "GET",
+            "url": "/",
+            "status": "500"
+        },
+        {
+            "ip": "212.7.217.50",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "85.115.224.206",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "195.16.111.40",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "94.50.192.129",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "37.144.108.55",
+            "method": "GET",
+            "url": "/administrator/",
+            "status": "500"
+        },
+        {
+            "ip": "100.1.14.108",
+            "method": "GET",
+            "url": "/index.php/component/users?view=registration",
+            "status": "500"
+        }
+    ],
+    "TOP 10 BYTES": [
+        {
+            "ip": "91.77.235.250",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701447636
+        },
+        {
+            "ip": "109.190.126.78",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701447146
+        },
+        {
+            "ip": "93.165.135.200",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701383562
+        },
+        {
+            "ip": "93.165.135.200",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701383430
+        },
+        {
+            "ip": "52.66.242.237",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701349465
+        },
+        {
+            "ip": "49.193.32.65",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701349287
+        },
+        {
+            "ip": "212.83.1.84",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701297338
+        },
+        {
+            "ip": "157.127.239.146",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 701242381
+        },
+        {
+            "ip": "199.71.244.137",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 700165757
+        },
+        {
+            "ip": "199.71.244.137",
+            "method": "GET",
+            "url": "/apache-log/access.log",
+            "bytes": 700165229
+        }
+    ]
+}

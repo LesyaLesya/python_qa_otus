@@ -1,0 +1,48 @@
+2021-04-21 10:17:38,125 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:17:38,126 - BrowserLogger - INFO - Test 'test_presence_of_elements_on_admin_login_page' is starting
+2021-04-21 10:17:41,135 - BrowserLogger - INFO - Browser chrome run
+2021-04-21 10:17:41,137 - AdminPage - INFO - Opening url https://demo.opencart.com/admin/
+2021-04-21 10:17:45,256 - AdminPage - INFO - Checking visibility of element with locator class name - panel-heading
+2021-04-21 10:17:45,313 - AdminPage - INFO - Checking visibility of element with locator id - input-username
+2021-04-21 10:17:45,368 - AdminPage - INFO - Checking visibility of element with locator id - input-password
+2021-04-21 10:17:45,422 - AdminPage - INFO - Checking visibility of element with locator css selector - button.btn.btn-primary
+2021-04-21 10:17:45,468 - AdminPage - INFO - Checking visibility of element with locator class name - help-block
+2021-04-21 10:17:45,571 - BrowserLogger - INFO - Browser chrome closed
+2021-04-21 10:17:45,571 - BrowserLogger - INFO - Test 'test_presence_of_elements_on_admin_login_page' is finished
+
+
+2021-04-21 10:17:45,573 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:17:45,573 - BrowserLogger - INFO - Test 'test_login' is starting
+2021-04-21 10:17:47,394 - BrowserLogger - INFO - Browser chrome run
+2021-04-21 10:17:47,395 - AdminPage - INFO - Opening url https://demo.opencart.com/admin/
+2021-04-21 10:17:48,469 - AdminPage - INFO - Checking visibility of element with locator id - input-username
+2021-04-21 10:17:48,526 - AdminPage - INFO - Clearing input of element <selenium.webdriver.remote.webelement.WebElement (session="c8edd3c3aa2f41cb3a71bb81944b2c20", element="95982e97-d5e0-4339-8961-fba99cbac466")>
+2021-04-21 10:17:48,591 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.remote.webelement.WebElement (session="c8edd3c3aa2f41cb3a71bb81944b2c20", element="95982e97-d5e0-4339-8961-fba99cbac466")>
+2021-04-21 10:17:48,673 - AdminPage - INFO - Checking visibility of element with locator id - input-password
+2021-04-21 10:17:48,728 - AdminPage - INFO - Clearing input of element <selenium.webdriver.remote.webelement.WebElement (session="c8edd3c3aa2f41cb3a71bb81944b2c20", element="eb640b8c-9121-403b-b769-51dff23c3c1e")>
+2021-04-21 10:17:48,788 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.remote.webelement.WebElement (session="c8edd3c3aa2f41cb3a71bb81944b2c20", element="eb640b8c-9121-403b-b769-51dff23c3c1e")>
+2021-04-21 10:17:48,853 - AdminPage - INFO - Clicking on element with locator css selector - button.btn.btn-primary
+2021-04-21 10:17:50,618 - AdminPage - INFO - Checking title 'Dashboard' of page
+2021-04-21 10:17:50,722 - BrowserLogger - INFO - Browser chrome closed
+2021-04-21 10:17:50,722 - BrowserLogger - INFO - Test 'test_login' is finished
+
+
+2021-04-21 10:17:50,726 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:17:50,726 - BrowserLogger - INFO - Test 'test_logout' is starting
+2021-04-21 10:17:52,294 - BrowserLogger - INFO - Browser chrome run
+2021-04-21 10:17:52,295 - AdminPage - INFO - Opening url https://demo.opencart.com/admin/
+2021-04-21 10:17:53,332 - AdminPage - INFO - Checking visibility of element with locator id - input-username
+2021-04-21 10:17:53,399 - AdminPage - INFO - Clearing input of element <selenium.webdriver.remote.webelement.WebElement (session="0fbe220966f31dd16787d57c990cec30", element="1c675418-1c07-4d8e-bf43-cf3d2045ed93")>
+2021-04-21 10:17:53,465 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.remote.webelement.WebElement (session="0fbe220966f31dd16787d57c990cec30", element="1c675418-1c07-4d8e-bf43-cf3d2045ed93")>
+2021-04-21 10:17:53,553 - AdminPage - INFO - Checking visibility of element with locator id - input-password
+2021-04-21 10:17:53,629 - AdminPage - INFO - Clearing input of element <selenium.webdriver.remote.webelement.WebElement (session="0fbe220966f31dd16787d57c990cec30", element="eb86e0aa-3ab0-4752-97cf-75b2487adbe4")>
+2021-04-21 10:17:53,708 - AdminPage - INFO - Send text 'demo' to element <selenium.webdriver.remote.webelement.WebElement (session="0fbe220966f31dd16787d57c990cec30", element="eb86e0aa-3ab0-4752-97cf-75b2487adbe4")>
+2021-04-21 10:17:53,809 - AdminPage - INFO - Clicking on element with locator css selector - button.btn.btn-primary
+2021-04-21 10:17:55,928 - AdminPage - INFO - Clicking on element with locator css selector - .nav > li:nth-child(2) > a
+2021-04-21 10:17:57,430 - AdminPage - INFO - Checking visibility of element with locator xpath - //h1[contains(text(), 'enter your login')]
+2021-04-21 10:17:57,562 - BrowserLogger - INFO - Browser chrome closed
+2021-04-21 10:17:57,563 - BrowserLogger - INFO - Test 'test_logout' is finished
+
+
+2021-04-21 10:17:57,565 - BrowserLogger - INFO - === TESTING MODULE test_admin_page ====
+2021-04-21 10:17:57,565 - BrowserLogger - INFO - Test 'test_get_products_table' is starting

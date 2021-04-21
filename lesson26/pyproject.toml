@@ -1,0 +1,4 @@
+# https://docs.pytest.org/en/stable/customize.html
+[tool.pytest.ini_options]
+addopts = "--alluredir allure-report"
+filterwarnings = "ignore::DeprecationWarning"
